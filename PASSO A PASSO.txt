@@ -1,0 +1,31 @@
+1 - Template (o html) - Criar o formulário na página
+2 - Class - Obter e tratar os dados
+3 - Service - Enviar os dados para o destino (API)
+
+=========================================================
+
+
+CLASSE - Carro
+ATRIUTOS - Cor e Modelo
+
+CLASSE - CARRO1
+OBJETO - VERMELHO E FERRARI
+
+=========================================================
+
+CLASSE - ALUNOS
+ATRIBUTOS - NOME E RG
+
+OBJETO - ALUNO1
+ATRIBUTOS - CAMILA SALES E 1234567	
+
+OBJETO - ALUNO2
+ATRIBUTOS - ALICE E 12345678
+
+=========================================================
+
+CLASSE - ANIMAL
+ATRIBUTOS - RAÇA, PESO, IDADE E NOME
+
+OBJETO - CACHORRO
+ATRIBUTOS - PINCHER, 5KG, 8 ANOS, BOMBOM
